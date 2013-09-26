@@ -18,7 +18,9 @@ Would love more suggestions!
         * https://github.com/opengovplatform/
         * http://gsa.github.io/federal-open-source-repos/
         * https://github.com/jcsalomon/constitution
-        * https://github.com/SFMOCI/San-Francisco-Open-Data-Policy
+        * San Francisco
+            * https://github.com/SFMOCI/San-Francisco-Open-Data-Policy
+            * http://sfmoci.github.io/openlaw/
         * https://github.com/SupervisorMarkFarrell/San-Francisco-Open-Data-Legislation
     * Guides
         * http://project-open-data.github.io (via http://www.wired.com/wiredenterprise/2013/05/opendata/)
