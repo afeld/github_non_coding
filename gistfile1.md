@@ -18,6 +18,7 @@ Would love more suggestions!
         * https://github.com/opengovplatform/
         * http://gsa.github.io/federal-open-source-repos/
         * https://github.com/jcsalomon/constitution
+        * https://github.com/CityOfPhiladelphia/flu-shot-spec
         * San Francisco
             * https://github.com/SFMOCI/San-Francisco-Open-Data-Policy
             * http://sfmoci.github.io/openlaw/
