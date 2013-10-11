@@ -10,6 +10,9 @@ Would love more suggestions!
     * http://training.github.com/resources/
     * http://rogerdudler.github.io/git-guide/
     * http://peak5390.wordpress.com/2013/09/22/how-ipython-notebook-and-github-have-changed-the-way-i-teach-python/
+    * Stuyvesant HS / Mike Zamansky
+        * https://github.com/stuycs-softdev
+        * https://github.com/stuycs-apcs-z
 
 ## Government
 
