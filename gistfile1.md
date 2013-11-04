@@ -78,3 +78,4 @@ TODO
     * https://github.com/msporny/dna (via http://manu.sporny.org/2011/public-domain-genome/)
     * https://github.com/CMAA/nova-organi-harmonia (via http://www.wired.com/wiredenterprise/2013/05/gregorian_github/)
     * https://github.com/sinker/tacofancy
+         * http://www.theatlantic.com/technology/archive/2013/11/who-needs-wikis-when-you-have-github/281121/
