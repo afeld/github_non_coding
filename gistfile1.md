@@ -58,6 +58,7 @@ TODO
     * http://jj.github.io/hoborg/
     * https://github.com/WiredEnterprise/Lord-of-the-Files (via http://www.wired.com/wiredenterprise/2012/02/github-revisited/)
     * https://github.com/schacon/git-scribe
+    * https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System
 * Guides
     * http://math.andrej.com/2013/06/20/the-hott-book/
     * http://technikhil.wordpress.com/2012/01/14/open-source-writing-using-git/
@@ -68,14 +69,23 @@ TODO
     * http://technikhil.wordpress.com/2012/01/14/open-source-writing-using-git/
     * http://www.developer.com/open/10-ways-git-version-control-can-streamline-your-writing-projects.html
 
-## Other
+## Lifestyle
+
+* Examples
+    * https://github.com/norinori2222/boyfriend_require/blob/master/README-en.md
+    * https://github.com/rayber/wedding (via http://www.wired.com/wiredenterprise/2013/09/github-for-anything/)
+    * https://github.com/sinker/tacofancy
+         * http://www.theatlantic.com/technology/archive/2013/11/who-needs-wikis-when-you-have-github/281121/
+
+## Personal Data
 
 * Examples
     * http://x.naveen.com/post/51808692792/a-personal-api
-    * https://github.com/rayber/wedding (via http://www.wired.com/wiredenterprise/2013/09/github-for-anything/)
+    * https://github.com/msporny/dna (via http://manu.sporny.org/2011/public-domain-genome/)
+
+## Other
+
+* Examples
     * https://github.com/frabcus/house (via http://www.wired.com/wiredenterprise/2013/01/this-old-house/)
     * https://github.com/canadaduane/house (via http://www.wired.com/wiredenterprise/2013/01/this-old-house/)
-    * https://github.com/msporny/dna (via http://manu.sporny.org/2011/public-domain-genome/)
     * https://github.com/CMAA/nova-organi-harmonia (via http://www.wired.com/wiredenterprise/2013/05/gregorian_github/)
-    * https://github.com/sinker/tacofancy
-         * http://www.theatlantic.com/technology/archive/2013/11/who-needs-wikis-when-you-have-github/281121/
