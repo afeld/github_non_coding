@@ -2,6 +2,20 @@
 
 Would love more suggestions!
 
+## 3D Modeling
+
+* Examples
+    * https://github.com/canadaduane/house (via http://www.wired.com/wiredenterprise/2013/01/this-old-house/)
+    * https://github.com/carlosgs/Cyclone-PCB-Factory
+    * https://github.com/glennswest/kosselg1
+    * https://github.com/underverk/3D_Printer
+    * https://github.com/skalnik/secret-bear-clip
+    * https://github.com/skalnik/peg-board-spindle
+    * https://github.com/reprap/huxley
+    * https://github.com/gklyne/things/
+    * https://github.com/eweinhoffer/Bike-Accessories
+    * https://github.com/search?q=3d+stl&type=Repositories
+
 ## CS Education
 
 * Examples
@@ -16,9 +30,10 @@ Would love more suggestions!
         * https://github.com/stuycs-softdev
         * https://github.com/stuycs-apcs-z
 
-## Open Data
+## Culture
 
-TODO
+* Examples
+    * https://github.com/CMAA/nova-organi-harmonia (via http://www.wired.com/wiredenterprise/2013/05/gregorian_github/)
 
 ## Government
 
@@ -53,6 +68,29 @@ TODO
     * http://blog.ted.com/2012/09/25/further-reading-in-github/
         * *Lots of good links here.*
 
+## Lifestyle
+
+* Examples
+    * https://github.com/norinori2222/boyfriend_require/blob/master/README-en.md
+        * http://betabeat.com/2012/10/woman-posts-boyfriend-request-on-github-looking-for-someone-who-maintains-their-own-server/
+    * https://github.com/rayber/wedding (via http://www.wired.com/wiredenterprise/2013/09/github-for-anything/)
+    * https://github.com/sinker/tacofancy
+         * http://www.theatlantic.com/technology/archive/2013/11/who-needs-wikis-when-you-have-github/281121/
+    * https://github.com/cheeaun/life
+    * https://github.com/rosannaf/knitting-patterns
+    * https://github.com/ali/hacking-across-america
+    * https://github.com/frabcus/house (via http://www.wired.com/wiredenterprise/2013/01/this-old-house/)
+
+## Open Data
+
+TODO
+
+## Personal Data
+
+* Examples
+    * http://x.naveen.com/post/51808692792/a-personal-api
+    * https://github.com/msporny/dna (via http://manu.sporny.org/2011/public-domain-genome/)
+
 ## Writing
 
 * Examples
@@ -71,42 +109,3 @@ TODO
         * https://medium.com/what-i-learned-today/59a5be34bf98
     * http://technikhil.wordpress.com/2012/01/14/open-source-writing-using-git/
     * http://www.developer.com/open/10-ways-git-version-control-can-streamline-your-writing-projects.html
-
-## Lifestyle
-
-* Examples
-    * https://github.com/norinori2222/boyfriend_require/blob/master/README-en.md
-        * http://betabeat.com/2012/10/woman-posts-boyfriend-request-on-github-looking-for-someone-who-maintains-their-own-server/
-    * https://github.com/rayber/wedding (via http://www.wired.com/wiredenterprise/2013/09/github-for-anything/)
-    * https://github.com/sinker/tacofancy
-         * http://www.theatlantic.com/technology/archive/2013/11/who-needs-wikis-when-you-have-github/281121/
-    * https://github.com/cheeaun/life
-    * https://github.com/rosannaf/knitting-patterns
-    * https://github.com/ali/hacking-across-america
-
-
-## Personal Data
-
-* Examples
-    * http://x.naveen.com/post/51808692792/a-personal-api
-    * https://github.com/msporny/dna (via http://manu.sporny.org/2011/public-domain-genome/)
-
-## 3D Modeling
-
-* Examples
-    * https://github.com/canadaduane/house (via http://www.wired.com/wiredenterprise/2013/01/this-old-house/)
-    * https://github.com/carlosgs/Cyclone-PCB-Factory
-    * https://github.com/glennswest/kosselg1
-    * https://github.com/underverk/3D_Printer
-    * https://github.com/skalnik/secret-bear-clip
-    * https://github.com/skalnik/peg-board-spindle
-    * https://github.com/reprap/huxley
-    * https://github.com/gklyne/things/
-    * https://github.com/eweinhoffer/Bike-Accessories
-    * https://github.com/search?q=3d+stl&type=Repositories
-
-## Other
-
-* Examples
-    * https://github.com/frabcus/house (via http://www.wired.com/wiredenterprise/2013/01/this-old-house/)
-    * https://github.com/CMAA/nova-organi-harmonia (via http://www.wired.com/wiredenterprise/2013/05/gregorian_github/)
