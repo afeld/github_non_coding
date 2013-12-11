@@ -1,6 +1,6 @@
 # GitHub Non-Coding Use Cases
 
-Would love more suggestions!
+Would love more [suggestions](https://github.com/afeld/github_non_coding/issues)!
 
 ## 3D Modeling
 
