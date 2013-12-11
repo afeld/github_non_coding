@@ -1,3 +1,5 @@
+# GitHub Non-Coding Use Cases
+
 Would love more suggestions!
 
 ## CS Education
