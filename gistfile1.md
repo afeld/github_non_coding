@@ -55,6 +55,7 @@ TODO
 
 * Examples
     * https://github.com/HoTT/book
+    * https://github.com/manuelkiessling/NodeBeginnerBook
     * http://jj.github.io/hoborg/
     * https://github.com/WiredEnterprise/Lord-of-the-Files (via http://www.wired.com/wiredenterprise/2012/02/github-revisited/)
     * https://github.com/schacon/git-scribe
