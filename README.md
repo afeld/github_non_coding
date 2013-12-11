@@ -15,6 +15,8 @@ Would love more suggestions!
     * Stuyvesant HS / Mike Zamansky
         * https://github.com/stuycs-softdev
         * https://github.com/stuycs-apcs-z
+    * http://addyosmani.github.io/backbone-fundamentals/
+    * https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System
 
 ## Open Data
 
@@ -71,6 +73,7 @@ TODO
         * https://medium.com/what-i-learned-today/59a5be34bf98
     * http://technikhil.wordpress.com/2012/01/14/open-source-writing-using-git/
     * http://www.developer.com/open/10-ways-git-version-control-can-streamline-your-writing-projects.html
+    * https://github.com/harvesthq/how-to-walkabout
 
 ## Lifestyle
 
@@ -110,3 +113,4 @@ TODO
 * Examples
     * https://github.com/frabcus/house (via http://www.wired.com/wiredenterprise/2013/01/this-old-house/)
     * https://github.com/CMAA/nova-organi-harmonia (via http://www.wired.com/wiredenterprise/2013/05/gregorian_github/)
+    * https://github.com/nuacm/nuacm-logo-2012
