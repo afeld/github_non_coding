@@ -78,6 +78,8 @@ TODO
     * https://github.com/sinker/tacofancy
          * http://www.theatlantic.com/technology/archive/2013/11/who-needs-wikis-when-you-have-github/281121/
     * https://github.com/cheeaun/life
+    * https://github.com/rosannaf/knitting-patterns
+
 
 ## Personal Data
 
