@@ -33,6 +33,8 @@ Would love more [suggestions](https://github.com/afeld/github_non_coding/issues)
     * https://github.com/stuycs-apcs-z
 * https://github.com/dypsilon/frontend-dev-bookmarks
     * The URL summarizes the truth: a repo filled with bookmarks to frontend dev resources.
+* RIT Computer Science House's Constitution
+    * https://github.com/ComputerScienceHouse/Constitution
 
 ## Culture
 
