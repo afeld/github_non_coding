@@ -103,6 +103,7 @@ Would love more [suggestions](https://github.com/afeld/github_non_coding/issues)
 * https://github.com/rosannaf/knitting-patterns
 * https://github.com/ali/hacking-across-america
 * https://github.com/frabcus/house (via http://www.wired.com/wiredenterprise/2013/01/this-old-house/)
+* https://github.com/jch/personal-finance
 
 ## Open Data
 
@@ -136,9 +137,3 @@ TODO
     * https://medium.com/what-i-learned-today/59a5be34bf98
 * http://technikhil.wordpress.com/2012/01/14/open-source-writing-using-git/
 * http://www.developer.com/open/10-ways-git-version-control-can-streamline-your-writing-projects.html
-
-## Finance
-
-### Examples
-
-* https://github.com/jch/personal-finance
