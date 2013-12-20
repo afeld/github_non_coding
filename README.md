@@ -136,3 +136,9 @@ TODO
     * https://medium.com/what-i-learned-today/59a5be34bf98
 * http://technikhil.wordpress.com/2012/01/14/open-source-writing-using-git/
 * http://www.developer.com/open/10-ways-git-version-control-can-streamline-your-writing-projects.html
+
+## Finance
+
+### Examples
+
+* https://github.com/jch/personal-finance
