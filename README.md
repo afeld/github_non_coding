@@ -17,7 +17,7 @@ Would love more [suggestions](https://github.com/afeld/github_non_coding/issues)
 * https://github.com/eweinhoffer/Bike-Accessories
 * https://github.com/search?q=3d+stl&type=Repositories
 
-## CS Education
+## Education
 
 ### Examples
 
@@ -35,6 +35,7 @@ Would love more [suggestions](https://github.com/afeld/github_non_coding/issues)
     * The URL summarizes the truth: a repo filled with bookmarks to frontend dev resources.
 * RIT Computer Science House's Constitution
     * https://github.com/ComputerScienceHouse/Constitution
+* https://github.com/fehler/curriculum
 
 ## Culture
 
