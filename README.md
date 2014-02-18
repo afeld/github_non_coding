@@ -104,6 +104,7 @@ Would love more [suggestions](https://github.com/afeld/github_non_coding/issues)
 * https://github.com/rosannaf/knitting-patterns
 * https://github.com/ali/hacking-across-america
 * https://github.com/frabcus/house (via http://www.wired.com/wiredenterprise/2013/01/this-old-house/)
+* https://github.com/jch/personal-finance
 
 ## Open Data
 
