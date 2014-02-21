@@ -11,4 +11,7 @@
 * https://github.com/reprap/huxley
 * https://github.com/gklyne/things/
 * https://github.com/eweinhoffer/Bike-Accessories
+
+## More
+
 * https://github.com/search?q=3d+stl&type=Repositories
