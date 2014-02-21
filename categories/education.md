@@ -17,3 +17,7 @@
 * https://github.com/fehler/curriculum
 * http://addyosmani.github.io/backbone-fundamentals/
 * https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System
+
+## Guides
+
+* https://education.github.com/
