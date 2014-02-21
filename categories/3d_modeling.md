@@ -11,6 +11,7 @@
 * https://github.com/reprap/huxley
 * https://github.com/gklyne/things/
 * https://github.com/eweinhoffer/Bike-Accessories
+* https://github.com/iliterobotics/3D
 
 ## More
 
