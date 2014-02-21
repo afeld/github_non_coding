@@ -17,6 +17,7 @@
 
 * http://government.github.com/community/
 * http://gsa.github.io/federal-open-source-repos/
+* http://alphagov.github.io/
 
 ## Guides
 
@@ -25,3 +26,4 @@
     * https://github.com/project-open-data/project-open-data.github.io/pull/21
 * http://government.github.com
 * http://www.informationdiet.com/blog/read/the-law-everyone-should-hate
+* https://www.gov.uk/design-principles
