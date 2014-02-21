@@ -15,10 +15,11 @@
     * https://github.com/SFMOCI/San-Francisco-Open-Data-Policy
     * http://sfmoci.github.io/openlaw/
 * https://github.com/SupervisorMarkFarrell/San-Francisco-Open-Data-Legislation
+* https://github.com/department-of-veterans-affairs/gi-bill-comparison-tool
 
 ## More
 
-http://government.github.com/community/
+* http://government.github.com/community/
 
 ## Guides
 
