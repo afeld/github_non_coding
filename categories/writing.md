@@ -13,7 +13,6 @@
 
 * http://math.andrej.com/2013/06/20/the-hott-book/
 * http://technikhil.wordpress.com/2012/01/14/open-source-writing-using-git/
-* http://teach.github.com/articles/book-authoring-using-git-and-github/
 * stuff from JJ Merelo
     * https://medium.com/what-i-learned-building/d0e8b27de71d
     * https://medium.com/what-i-learned-today/59a5be34bf98
