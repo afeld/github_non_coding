@@ -13,7 +13,6 @@
     * https://github.com/stuycs-softdev
     * https://github.com/stuycs-apcs-z
 * https://github.com/dypsilon/frontend-dev-bookmarks
-* [RIT Computer Science House's Constitution](https://github.com/ComputerScienceHouse/Constitution)
 * https://github.com/fehler/curriculum
 * http://addyosmani.github.io/backbone-fundamentals/
 * https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System
