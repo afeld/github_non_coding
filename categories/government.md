@@ -21,5 +21,5 @@
 * http://project-open-data.github.io (via http://www.wired.com/wiredenterprise/2013/05/opendata/)
     * http://ben.balter.com/collaborative-policymaking/#/the-discussion
     * https://github.com/project-open-data/project-open-data.github.io/pull/21
-* http://gov.githubapp.com/stories/sunlight
+* http://government.github.com/stories/modern-approach-to-open-data/
 * http://www.informationdiet.com/blog/read/the-law-everyone-should-hate
