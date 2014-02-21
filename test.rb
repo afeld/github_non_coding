@@ -10,15 +10,19 @@ Dir.mkdir(EXPORT_DIR) unless File.exists?(EXPORT_DIR)
 pipeline = HTML::Pipeline.new [
   HTML::Pipeline::MarkdownFilter,
   HTML::Pipeline::TableOfContentsFilter
-], :gfm => true
+], gfm: true
 
 # iterate over files, and generate HTML from Markdown
 Dir.glob('**/*.md') do |path|
   contents = File.read(path)
   result = pipeline.call(contents)
 
-  output_path = path.split('/').pop.sub('.md', '.html')
-  File.open("#{EXPORT_DIR}/#{output_path}", 'w') { |file| file.write(result[:output].to_s) }
+  output_file = path.sub(/\.md$/, '.html')
+  output_path = File.dirname(output_file)
+  FileUtils.mkdir_p("#{EXPORT_DIR}/#{output_path}")
+  File.open("#{EXPORT_DIR}/#{output_file}", 'w') do |file|
+    file.write(result[:output].to_s)
+  end
 end
 
 # test your out dir!
