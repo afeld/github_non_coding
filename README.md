@@ -36,12 +36,15 @@ Would love more [suggestions](https://github.com/afeld/github_non_coding/issues)
 * RIT Computer Science House's Constitution
     * https://github.com/ComputerScienceHouse/Constitution
 * https://github.com/fehler/curriculum
+* http://addyosmani.github.io/backbone-fundamentals/
+* https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System
 
 ## Culture
 
 ### Examples
 
 * https://github.com/CMAA/nova-organi-harmonia (via http://www.wired.com/wiredenterprise/2013/05/gregorian_github/)
+* https://github.com/nuacm/nuacm-logo-2012
 
 ## Music
 
@@ -126,7 +129,7 @@ TODO
 * http://jj.github.io/hoborg/
 * https://github.com/WiredEnterprise/Lord-of-the-Files (via http://www.wired.com/wiredenterprise/2012/02/github-revisited/)
 * https://github.com/schacon/git-scribe
-* https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System
+* https://github.com/harvesthq/how-to-walkabout
 
 ### Guides
 
