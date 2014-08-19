@@ -7,6 +7,7 @@
 * http://jj.github.io/hoborg/
 * https://github.com/WiredEnterprise/Lord-of-the-Files (via http://www.wired.com/wiredenterprise/2012/02/github-revisited/)
 * https://github.com/harvesthq/how-to-walkabout
+* https://github.com/oreillymedia/etudes-for-erlang
 
 ## Guides
 
@@ -21,3 +22,5 @@
 ## Tools
 
 * https://github.com/schacon/git-scribe
+* https://atlas.oreilly.com/
+* https://www.gitbook.io/
