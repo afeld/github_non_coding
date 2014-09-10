@@ -24,3 +24,4 @@
 * https://github.com/schacon/git-scribe
 * https://atlas.oreilly.com/
 * https://www.gitbook.io/
+* https://www.softcover.io/
