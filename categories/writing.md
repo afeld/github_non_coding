@@ -8,6 +8,7 @@
 * https://github.com/WiredEnterprise/Lord-of-the-Files (via http://www.wired.com/wiredenterprise/2012/02/github-revisited/)
 * https://github.com/harvesthq/how-to-walkabout
 * https://github.com/oreillymedia/etudes-for-erlang
+* https://github.com/ASU-CPI/honest-pi
 
 ## Guides
 
